@@ -41,6 +41,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://thaigogo.ru/blog/bangokok-nana-plaza/</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://thaigogo.ru/blog/</loc>
     <priority>0.7</priority>
   </url>
@@ -113,11 +117,19 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://thaigogo.ru/blog/tag/nana/</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://thaigogo.ru/blog/2013.html</loc>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://thaigogo.ru/blog/2013/08.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://thaigogo.ru/blog/2013/08/22.html</loc>
     <priority>0.7</priority>
   </url>
   <url>
