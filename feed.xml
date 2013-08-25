@@ -5,10 +5,27 @@
   <id>http://thaigogo.ru/blog</id>
   <link href="http://thaigogo.ru/blog"/>
   <link href="http://thaigogo.ru/feed.xml" rel="self"/>
-  <updated>2013-08-22T12:45:00Z</updated>
+  <updated>2013-08-25T03:40:00Z</updated>
   <author>
     <name>thaigogo</name>
   </author>
+  <entry>
+    <title>Транспорт в Бангкоке: такси, тук-тук, мотобайк, BTS, MRT, метро, лодка и не только</title>
+    <link rel="alternate" href="http://thaigogo.ru/blog/transport-bangkok/"/>
+    <id>http://thaigogo.ru/blog/transport-bangkok/</id>
+    <published>2013-08-25T03:40:00Z</published>
+    <updated>2013-08-25T22:45:49+07:00</updated>
+    <author>
+      <name>thaigogo</name>
+    </author>
+    <summary type="html">&lt;p&gt;Бангкок - огромный мегаполис с более чем восемью миллионами жителей,
+занимающий площадь полторы тысячи квадратных километров. Чтобы
+добраться из одного конца города в другой, порой, придется потратить
+несколько часов, скомбинировав несколько видов транспорта, например,
+начать путь на лодке с Каосана, пересесть на BTS, а затем сменить его
+на MRT, чтобы попасть на железнодорожную станцию.
+Дальше я расскажу о доступных опциях подробнее.</summary>
+  </entry>
   <entry>
     <title>А го-го бары. Нана Плаза (Nana Plaza) в Бангкоке</title>
     <link rel="alternate" href="http://thaigogo.ru/blog/bangokok-nana-plaza/"/>
@@ -28,8 +45,8 @@ Plaza). Нана Плаза позиционирует себя как сама�
     <title>Тайская кухня - как едят в Таиланде</title>
     <link rel="alternate" href="http://thaigogo.ru/blog/thai-food-introduction/"/>
     <id>http://thaigogo.ru/blog/thai-food-introduction/</id>
-    <published>2013-08-15T10:43:00Z</published>
-    <updated>2013-08-20T05:32:30+07:00</updated>
+    <published>2013-08-15T15:50:00Z</published>
+    <updated>2013-08-25T22:50:24+07:00</updated>
     <author>
       <name>thaigogo</name>
     </author>
@@ -44,7 +61,7 @@ Plaza). Нана Плаза позиционирует себя как сама�
     <link rel="alternate" href="http://thaigogo.ru/blog/five-common-scams-in-thailand/"/>
     <id>http://thaigogo.ru/blog/five-common-scams-in-thailand/</id>
     <published>2013-08-12T20:31:00Z</published>
-    <updated>2013-08-20T05:29:29+07:00</updated>
+    <updated>2013-08-25T22:27:59+07:00</updated>
     <author>
       <name>thaigogo</name>
     </author>
