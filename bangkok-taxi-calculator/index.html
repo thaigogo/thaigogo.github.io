@@ -44,7 +44,7 @@
       </div>
     </div>
     <div class='container-narrow'>
-      <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false&amp;language=ru-RU"></script>
+      <script type="text/javascript" src="http://maps.google.com/maps/api/js?libraries=places&amp;sensor=false&amp;language=ru-RU"></script>
       <script type="text/javascript" src="/javascripts/accounting.min.js"></script>
       <style>
       table.adp-placemark td {
@@ -60,6 +60,9 @@
       var taxiPrice1km;
       var taxiPrice1hourWaiting;
       var displayCurrencySymbol;
+      
+      var autocomplete_start, autocomplete_end;
+      var place_start, place_end;
       
       taxiPriceStart = 35.0;
       taxiPrice1km = 5.0;
@@ -77,17 +80,43 @@
         map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
         directionsDisplay.setMap(map);
         directionsDisplay.setPanel(document.getElementById("directionsPanel"));
+      
+        // is not ready yet
+      
+        // var input_start = document.getElementById("startPlace");
+        // var input_end = document.getElementById("endPlace");
+        // var options = {
+        // 	componentRestrictions: {country:'th'}
+        // }
+        // autocomplete_start = new google.maps.places.Autocomplete(input_start, options);
+        // google.maps.event.addListener(autocomplete_start, 'place_changed', function() {
+        // 	place_start = autocomplete_start.getPlace();
+        //   console.log(place_start);
+        // });
+      
+        // autocomplete_end = new google.maps.places.Autocomplete(input_end, options);
+        // google.maps.event.addListener(autocomplete_end, 'place_changed', function() {
+        // 	place_end = autocomplete_end.getPlace();
+        //   console.log(place_end);
+        // });
       }
       
       
       function calcRoute() {
-        var start = document.getElementById("startPlace").value;
-        var end = document.getElementById("endPlace").value;
+        var start = document.getElementById("startPlace").value + ', Бангкок, Таиланд';
+        var end = document.getElementById("endPlace").value + ', Бангкок, Таиланд';
+      
+        if (typeof(place_start) != 'undefined')
+        	start = place_start.formatted_address;
+        if (typeof(place_end) != 'undefined')
+        	end = place_end.formatted_address;
+      
         var request = {
-          origin: start + ', Bangkok, Thailand',
-          destination: end + ', Bangkok, Thailand',
+          origin: start,
+          destination: end,
           travelMode: google.maps.TravelMode.DRIVING
         };
+      
         directionsService.route(request, function(result, status) {
           if (status == google.maps.DirectionsStatus.OK) {
             directionsDisplay.setDirections(result);
@@ -115,12 +144,12 @@
                    + ' :</td><td> ' + accounting.formatMoney(taxiPriceRouteKm, formatMoneyOptions) + '</td></tr>\n'
               + '<tr><td> Ожидание (около ' + waitingsPrintable + ' мин):</td><td> ' + accounting.formatMoney(waitingsPrice, formatMoneyOptions) + '</td></tr>\n'
               + '<tr><td> Итого (приблизительно): </td><td>' + accounting.formatMoney(overallPrice, formatMoneyOptions) + '</td></tr>\n'
-              + '</table>\n';
-            innerHtml += '<div class="alert alert-success">Помни что это приблизительная стоимость. Конечная цена будет зависить от времени суток, пробок, дорожных работ. В Бангкоке есть платные дороги, цена за них не входит в цену по счетчику, ее пассажир оплачивает отдельно.</div>';
+              + '</table><br/>\n';
+            innerHtml += '<div class="alert alert-success">Помни что это приблизительная стоимость. Конечная цена будет зависеть от времени суток, пробок, дорожных работ. В Бангкоке есть платные дороги, цена за них не входит в цену по счетчику, ее пассажир оплачивает отдельно.</div>';
             price_for_selected.innerHTML = innerHtml;
           } else {
             var price_for_selected = document.getElementById('price_for_selected');
-            var innerHtml = '<div class="alert">Не удалось проложить маршрут. Попробуй указать место поблизости, попробуй указать названия на английском. </div>';
+            var innerHtml = '<div class="alert">Не удалось проложить маршрут. Попробуй указать место поблизости, попробуй указать название на английском. </div>';
             price_for_selected.innerHTML = innerHtml;
             var directionsPanel = document.getElementById('directionsPanel');
             directionsPanel.innerHTML = ' ';
@@ -133,9 +162,9 @@
       	<fieldset>
       		<legend>Калькулятор стоимости проезда на такси в Бангкоке</legend>
       		<label>Откуда</label>
-      		<input type="text" placeholder="Адрес или название..." name="startPlace" id="startPlace">
+      		<input class="input-xxlarge" type="text" placeholder="Адрес или название..." name="startPlace" id="startPlace">
       		<label>Куда</label>
-      		<input type="text" placeholder="Адрес или название..." name="endPlace" id="endPlace">
+      		<input class="input-xxlarge" type="text" placeholder="Адрес или название..." name="endPlace" id="endPlace">
       		<br/><br/>
       		<input type="button" class="btn" onclick="calcRoute()" value="Посчитать">
       	</fieldset>
