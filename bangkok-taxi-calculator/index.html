@@ -83,22 +83,20 @@
       
         // is not ready yet
       
-        // var input_start = document.getElementById("startPlace");
-        // var input_end = document.getElementById("endPlace");
-        // var options = {
-        // 	componentRestrictions: {country:'th'}
-        // }
-        // autocomplete_start = new google.maps.places.Autocomplete(input_start, options);
-        // google.maps.event.addListener(autocomplete_start, 'place_changed', function() {
-        // 	place_start = autocomplete_start.getPlace();
-        //   console.log(place_start);
-        // });
+        var input_start = document.getElementById("startPlace");
+        var input_end = document.getElementById("endPlace");
+        var options = {
+        	componentRestrictions: {country:'th'}
+        }
+        autocomplete_start = new google.maps.places.Autocomplete(input_start, options);
+        google.maps.event.addListener(autocomplete_start, 'place_changed', function() {
+        	place_start = autocomplete_start.getPlace();
+        });
       
-        // autocomplete_end = new google.maps.places.Autocomplete(input_end, options);
-        // google.maps.event.addListener(autocomplete_end, 'place_changed', function() {
-        // 	place_end = autocomplete_end.getPlace();
-        //   console.log(place_end);
-        // });
+        autocomplete_end = new google.maps.places.Autocomplete(input_end, options);
+        google.maps.event.addListener(autocomplete_end, 'place_changed', function() {
+        	place_end = autocomplete_end.getPlace();
+        });
       }
       
       
@@ -106,10 +104,14 @@
         var start = document.getElementById("startPlace").value + ', Бангкок, Таиланд';
         var end = document.getElementById("endPlace").value + ', Бангкок, Таиланд';
       
-        if (typeof(place_start) != 'undefined')
-        	start = place_start.formatted_address;
-        if (typeof(place_end) != 'undefined')
+        if (typeof(place_start) != 'undefined') {
+        	start = new google.maps.LatLng(place_start.geometry.location.ob, place_start.geometry.location.pb);
+        }
+        if (typeof(place_end) != 'undefined') {
         	end = place_end.formatted_address;
+        	end = new google.maps.LatLng(place_end.geometry.location.ob, place_end.geometry.location.pb);
+        	console.log(end);
+        }
       
         var request = {
           origin: start,
