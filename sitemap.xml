@@ -81,6 +81,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://thaigogo.ru/blog/nok-air-maxim/</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://thaigogo.ru/blog/</loc>
     <priority>0.7</priority>
   </url>
@@ -189,11 +193,19 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://thaigogo.ru/blog/tag/airlines/</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://thaigogo.ru/blog/2013.html</loc>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://thaigogo.ru/blog/2013/09.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://thaigogo.ru/blog/2013/09/14.html</loc>
     <priority>0.7</priority>
   </url>
   <url>
@@ -286,6 +298,10 @@
   </url>
   <url>
     <loc>http://thaigogo.ru/blog/2013/page/4.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://thaigogo.ru/blog/2013/09/page/2.html</loc>
     <priority>0.7</priority>
   </url>
   <url>
