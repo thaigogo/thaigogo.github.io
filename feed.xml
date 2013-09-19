@@ -5,10 +5,25 @@
   <id>http://thaigogo.ru/blog</id>
   <link href="http://thaigogo.ru/blog"/>
   <link href="http://thaigogo.ru/feed.xml" rel="self"/>
-  <updated>2013-09-14T14:36:00Z</updated>
+  <updated>2013-09-19T09:50:00Z</updated>
   <author>
     <name>thaigogo</name>
   </author>
+  <entry>
+    <title>Как добраться из аэропорта Бангкока в Паттайю</title>
+    <link rel="alternate" href="http://thaigogo.ru/blog/airport-pattaya/"/>
+    <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/airport-pattaya/airp-fb.jpg"/>
+    <id>http://thaigogo.ru/blog/airport-pattaya/</id>
+    <published>2013-09-19T09:50:00Z</published>
+    <updated>2013-09-19T17:04:32+07:00</updated>
+    <author>
+      <name>thaigogo</name>
+    </author>
+    <summary type="html">&lt;p&gt;Прилетев в Таиланд самостоятельно, ты скорее всего, приземлился в
+Бангкоке и теперь думаешь куда податься дальше. Скажем, ты выбрал,
+вслед за героем знаменитой песни&lt;sup id="fnref:pattaya"&gt;&lt;a href="#fn:pattaya" class="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;, Паттайю. Рассмотрим твои
+возможные действия.</summary>
+  </entry>
   <entry>
     <title>Модели Maxim Таиланд разделись для пассажиров Nok Air (фото)</title>
     <link rel="alternate" href="http://thaigogo.ru/blog/nok-air-maxim/"/>
@@ -176,21 +191,5 @@
 Plaza). Нана Плаза позиционирует себя как самая большая игровая
 площадка для взрослых, и это действительно не маленькое здание полное
 питейных заведений и а го-го баров.</summary>
-  </entry>
-  <entry>
-    <title>Тайская кухня - как едят в Таиланде</title>
-    <link rel="alternate" href="http://thaigogo.ru/blog/thai-food-introduction/"/>
-    <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/thai-food-introduction/som-tam-thai.jpg"/>
-    <id>http://thaigogo.ru/blog/thai-food-introduction/</id>
-    <published>2013-08-15T15:50:00Z</published>
-    <updated>2013-08-28T03:49:57+07:00</updated>
-    <author>
-      <name>thaigogo</name>
-    </author>
-    <summary type="html">&lt;p&gt;Тайская кухня - одна из причин приехать в Таиланд. Здесь можно найти много
-разнообразной вкусной еды за приемлемый бюджет. В зависимости от того,
-ешь ты один или в большой компании, в каком регионе страны ты
-находишься и от твоих вкусовых предпочтений, ты можешь есть разными
-стилями и способами.</summary>
   </entry>
 </feed>

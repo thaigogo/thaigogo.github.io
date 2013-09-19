@@ -85,6 +85,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://thaigogo.ru/blog/airport-pattaya/</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://thaigogo.ru/blog/</loc>
     <priority>0.7</priority>
   </url>
@@ -205,6 +209,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://thaigogo.ru/blog/2013/09/19.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://thaigogo.ru/blog/2013/09/14.html</loc>
     <priority>0.7</priority>
   </url>
@@ -285,7 +293,19 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://thaigogo.ru/blog/page/4/</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://thaigogo.ru/blog/tag/trip/page/2/</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://thaigogo.ru/blog/tag/bangkok/page/2/</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://thaigogo.ru/blog/tag/pattaya/page/2/</loc>
     <priority>0.7</priority>
   </url>
   <url>
