@@ -5,10 +5,26 @@
   <id>http://thaigogo.ru/blog</id>
   <link href="http://thaigogo.ru/blog"/>
   <link href="http://thaigogo.ru/feed.xml" rel="self"/>
-  <updated>2013-09-19T09:50:00Z</updated>
+  <updated>2013-09-21T11:02:00Z</updated>
   <author>
     <name>thaigogo</name>
   </author>
+  <entry>
+    <title>Тайская кухня: Чим Чум в глиняном горшке</title>
+    <link rel="alternate" href="http://thaigogo.ru/blog/thai-hot-pot-jim-jum/"/>
+    <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/thai-hot-pot-jim-jum/jim-jum-fb.jpg"/>
+    <id>http://thaigogo.ru/blog/thai-hot-pot-jim-jum/</id>
+    <published>2013-09-21T11:02:00Z</published>
+    <updated>2013-09-21T18:02:43+07:00</updated>
+    <author>
+      <name>thaigogo</name>
+    </author>
+    <summary type="html">&lt;p&gt;Прогуливаясь по улицам Паттайи, Бангкока и других тайских городов, ты,
+наверное, замечал тайцев, сидящих за одним столом, которые макают
+что-то в общий горшок и едят. Это блюдо называется Чим Чум, готовят
+его в глиняном горшке а как и из чего готовят, а так же где и как
+правильно его есть я расскажу сейчас.</summary>
+  </entry>
   <entry>
     <title>Как добраться из аэропорта Бангкока в Паттайю</title>
     <link rel="alternate" href="http://thaigogo.ru/blog/airport-pattaya/"/>
@@ -47,7 +63,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/som-tam-salad/som-tam-fb.jpg"/>
     <id>http://thaigogo.ru/blog/som-tam-salad/</id>
     <published>2013-09-13T11:28:00Z</published>
-    <updated>2013-09-14T19:38:40+07:00</updated>
+    <updated>2013-09-20T13:56:31+07:00</updated>
     <author>
       <name>thaigogo</name>
     </author>
@@ -175,21 +191,5 @@
 начать путь на лодке с Каосана, пересесть на BTS, а затем сменить его
 на MRT, чтобы попасть на железнодорожную станцию.
 Дальше я расскажу о доступных опциях подробнее.</summary>
-  </entry>
-  <entry>
-    <title>А го-го бары. Нана Плаза (Nana Plaza) в Бангкоке</title>
-    <link rel="alternate" href="http://thaigogo.ru/blog/bangokok-nana-plaza/"/>
-    <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/bangokok-nana-plaza/nana-fb.jpg"/>
-    <id>http://thaigogo.ru/blog/bangokok-nana-plaza/</id>
-    <published>2013-08-22T12:45:00Z</published>
-    <updated>2013-08-23T04:24:18+07:00</updated>
-    <author>
-      <name>thaigogo</name>
-    </author>
-    <summary type="html">&lt;p&gt;Серию статей о взрослых развлечениях в Таиланде я продолжу
-обзором такого популярного в Бангкоке места как Нана Плаза (Nana
-Plaza). Нана Плаза позиционирует себя как самая большая игровая
-площадка для взрослых, и это действительно не маленькое здание полное
-питейных заведений и а го-го баров.</summary>
   </entry>
 </feed>
