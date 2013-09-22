@@ -5,10 +5,25 @@
   <id>http://thaigogo.ru/blog</id>
   <link href="http://thaigogo.ru/blog"/>
   <link href="http://thaigogo.ru/feed.xml" rel="self"/>
-  <updated>2013-09-21T11:02:00Z</updated>
+  <updated>2013-09-22T08:19:00Z</updated>
   <author>
     <name>thaigogo</name>
   </author>
+  <entry>
+    <title>Тайская кухня: Муката - барбекю в Тайском стиле</title>
+    <link rel="alternate" href="http://thaigogo.ru/blog/thai-hot-pot-mookata/"/>
+    <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/thai-hot-pot-mookata/mookata-fb.jpg"/>
+    <id>http://thaigogo.ru/blog/thai-hot-pot-mookata/</id>
+    <published>2013-09-22T08:19:00Z</published>
+    <updated>2013-09-22T15:19:54+07:00</updated>
+    <author>
+      <name>thaigogo</name>
+    </author>
+    <summary type="html">&lt;p&gt;Независимо от того живешь ты в Таиланде или просто проводишь свой
+отпуск, если ты любишь поесть много, ты не должен упустить шанс поесть
+в муката, тайском барбекю, работающем по принципу буфета или шведского
+стола (все что сможешь съесть).</summary>
+  </entry>
   <entry>
     <title>Тайская кухня: Чим Чум в глиняном горшке</title>
     <link rel="alternate" href="http://thaigogo.ru/blog/thai-hot-pot-jim-jum/"/>
@@ -173,23 +188,5 @@
 самостоятельно, можно воспользоваться сервисом, который организует
 виза-ран, чтобы он был быстрым, надежным и приятным. Здесь я подробно
 опишу виза-ран с агенством.</summary>
-  </entry>
-  <entry>
-    <title>Транспорт в Бангкоке: такси, тук-тук, мотобайк, BTS, MRT, метро, лодка и не только</title>
-    <link rel="alternate" href="http://thaigogo.ru/blog/transport-bangkok/"/>
-    <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/transport-bangkok/bangkok-traffic.jpg"/>
-    <id>http://thaigogo.ru/blog/transport-bangkok/</id>
-    <published>2013-08-25T03:40:00Z</published>
-    <updated>2013-09-16T00:38:41+07:00</updated>
-    <author>
-      <name>thaigogo</name>
-    </author>
-    <summary type="html">&lt;p&gt;Бангкок - огромный мегаполис с более чем восемью миллионами жителей,
-занимающий площадь полторы тысячи квадратных километров. Чтобы
-добраться из одного конца города в другой, порой, придется потратить
-несколько часов, скомбинировав несколько видов транспорта, например,
-начать путь на лодке с Каосана, пересесть на BTS, а затем сменить его
-на MRT, чтобы попасть на железнодорожную станцию.
-Дальше я расскажу о доступных опциях подробнее.</summary>
   </entry>
 </feed>
