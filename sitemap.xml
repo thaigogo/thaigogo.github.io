@@ -97,6 +97,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://thaigogo.ru/blog/walking-street-pattaya/</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://thaigogo.ru/blog/</loc>
     <priority>0.7</priority>
   </url>
@@ -242,6 +246,10 @@
   </url>
   <url>
     <loc>http://thaigogo.ru/blog/tag/pattaya/page/2/</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://thaigogo.ru/blog/tag/relax/page/2/</loc>
     <priority>0.7</priority>
   </url>
 </urlset>
