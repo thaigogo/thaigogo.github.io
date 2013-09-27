@@ -116,11 +116,13 @@
         var end = document.getElementById("endPlace").value + ', Бангкок, Таиланд';
       
         if (typeof(place_start) != 'undefined') {
-        	start = new google.maps.LatLng(place_start.geometry.location.ob, place_start.geometry.location.pb);
+        	start = new google.maps.LatLng(place_start.geometry.location.lat(), place_start.geometry.location.lng());
+          console.log(place_start);
+          console.log(start);
         }
         if (typeof(place_end) != 'undefined') {
-        	end = place_end.formatted_address;
-        	end = new google.maps.LatLng(place_end.geometry.location.ob, place_end.geometry.location.pb);
+        	end = new google.maps.LatLng(place_end.geometry.location.lat(), place_end.geometry.location.lng());
+          console.log(place_end);
         	console.log(end);
         }
       
