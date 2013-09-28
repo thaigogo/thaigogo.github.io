@@ -5,10 +5,25 @@
   <id>http://thaigogo.ru/blog</id>
   <link href="http://thaigogo.ru/blog"/>
   <link href="http://thaigogo.ru/feed.xml" rel="self"/>
-  <updated>2013-09-26T08:50:00Z</updated>
+  <updated>2013-09-28T14:35:00Z</updated>
   <author>
     <name>thaigogo</name>
   </author>
+  <entry>
+    <title>Виза-ран из Бангкока в Лаос</title>
+    <link rel="alternate" href="http://thaigogo.ru/blog/visa-bangkok-lao/"/>
+    <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/visa-bangkok-lao/patuxai-fb.jpg"/>
+    <id>http://thaigogo.ru/blog/visa-bangkok-lao/</id>
+    <published>2013-09-28T14:35:00Z</published>
+    <updated>2013-09-28T21:38:23+07:00</updated>
+    <author>
+      <name>thaigogo</name>
+    </author>
+    <summary type="html">&lt;p&gt;Туристическую визу в Таиланд проще всего получить в одном из соседних
+государств, прожив перед этим месяц по штампу о прибытии. О том как
+получить туристическую визу в Таиланд в посольстве Таиланда в Лаосе я
+расскажу в этой статье.</summary>
+  </entry>
   <entry>
     <title>Walking Street, Паттайя</title>
     <link rel="alternate" href="http://thaigogo.ru/blog/walking-street-pattaya/"/>
@@ -167,26 +182,5 @@
 вопроса. Паттайя в частности - из-за дешевизны и большой популярности
 среди соотечественников. Первую статью цикла про зимовку в Таиланде я
 отдам вопросу выбора жилья для зимовки.</summary>
-  </entry>
-  <entry>
-    <title>Шесть вещей которые ни за что не стоит делать в Таиланде.</title>
-    <link rel="alternate" href="http://thaigogo.ru/blog/six-things-you-should-never-do-in-thailand/"/>
-    <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/six-things-you-should-never-do-in-thailand/jailed-fb.jpg"/>
-    <id>http://thaigogo.ru/blog/six-things-you-should-never-do-in-thailand/</id>
-    <published>2013-08-31T12:22:00Z</published>
-    <updated>2013-09-22T00:51:39+07:00</updated>
-    <author>
-      <name>thaigogo</name>
-    </author>
-    <summary type="html">&lt;p&gt;Таиланд гостеприимная страна, это рай где каждый найдет то, что нужно
-ему. Нравятся красивые пляжи - есть острова на юге. Нравятся джунгли и
-прогулки на свежем воздухе - взгляни на север. Нравятся красивые
-женщины - оглянись вокруг, их есть повсюду.&lt;/p&gt;
-
-&lt;p&gt;В Таиланде можно делать что душе угодно. Можно напиться в самом
-неподходящем месте, прямо с утра, до неприличного состояния. Можно
-иметь больше женщин, чем это нужно и даже возможно. Но есть вещи,
-которых нельзя допускать ни при каких обстоятельствах ни
-в каком состоянии.</summary>
   </entry>
 </feed>

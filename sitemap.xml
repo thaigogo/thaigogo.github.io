@@ -101,6 +101,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://thaigogo.ru/blog/visa-bangkok-lao/</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://thaigogo.ru/blog/</loc>
     <priority>0.7</priority>
   </url>
@@ -218,6 +222,10 @@
   </url>
   <url>
     <loc>http://thaigogo.ru/blog/tag/buffet/</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://thaigogo.ru/blog/tag/lao/</loc>
     <priority>0.7</priority>
   </url>
   <url>
