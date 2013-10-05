@@ -105,6 +105,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://thaigogo.ru/blog/khlong-toey-market/</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://thaigogo.ru/blog/</loc>
     <priority>0.7</priority>
   </url>
@@ -213,6 +217,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://thaigogo.ru/blog/tag/realasia/</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://thaigogo.ru/blog/tag/airlines/</loc>
     <priority>0.7</priority>
   </url>
@@ -226,6 +234,10 @@
   </url>
   <url>
     <loc>http://thaigogo.ru/blog/tag/lao/</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://thaigogo.ru/blog/tag/market/</loc>
     <priority>0.7</priority>
   </url>
   <url>
