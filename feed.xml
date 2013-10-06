@@ -5,10 +5,24 @@
   <id>http://thaigogo.ru/blog</id>
   <link href="http://thaigogo.ru/blog"/>
   <link href="http://thaigogo.ru/feed.xml" rel="self"/>
-  <updated>2013-10-05T14:44:00Z</updated>
+  <updated>2013-10-06T16:59:00Z</updated>
   <author>
     <name>thaigogo</name>
   </author>
+  <entry>
+    <title>Чем заняться в Паттайе кроме секса</title>
+    <link rel="alternate" href="http://thaigogo.ru/blog/todo-pattaya/"/>
+    <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/todo-pattaya/vinery-fb.jpg"/>
+    <id>http://thaigogo.ru/blog/todo-pattaya/</id>
+    <published>2013-10-06T16:59:00Z</published>
+    <updated>2013-10-07T03:38:37+07:00</updated>
+    <author>
+      <name>thaigogo</name>
+    </author>
+    <summary type="html">&lt;p&gt;Мы то с тобой знаем зачем все едут в Паттайю. Что? С тобой, внезапно,
+оказались жена и дети? Этот пост про то чем их отвлечь, пока ты
+занят.</summary>
+  </entry>
   <entry>
     <title>Рынок Клонг Той в Бангкоке</title>
     <link rel="alternate" href="http://thaigogo.ru/blog/khlong-toey-market/"/>
@@ -164,21 +178,5 @@
 известно, отказался ехать не пройдя и половины пути. Русский турист
 для русского гида в Таиланде это прежде всего источник дохода. Гиды
 знают несколько способов как этот доход увеличить.</summary>
-  </entry>
-  <entry>
-    <title>На что жить в Таиланде</title>
-    <link rel="alternate" href="http://thaigogo.ru/blog/make-money-thailand/"/>
-    <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/make-money-thailand/thai-baht-fb.jpg"/>
-    <id>http://thaigogo.ru/blog/make-money-thailand/</id>
-    <published>2013-09-06T22:33:00Z</published>
-    <updated>2013-09-07T16:15:53+07:00</updated>
-    <author>
-      <name>thaigogo</name>
-    </author>
-    <summary type="html">&lt;p&gt;В прошлой статье я рассказал &lt;a href="/blog/accomodation-midterm-pattaya/"&gt;где жить во время зимовки в Паттайе&lt;/a&gt;, но
-не рассказал на что жить в Таиланде. Вопрос актуальный, так как кушать
-и нормально жить хочется в любом месте, даже там где нет зимы. В этой
-статье я опишу варианты заработка для обеспечения себе комфортной (или
-приемлемой) жизни в Таиланде.</summary>
   </entry>
 </feed>
