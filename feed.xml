@@ -5,10 +5,26 @@
   <id>http://thaigogo.ru/blog</id>
   <link href="http://thaigogo.ru/blog"/>
   <link href="http://thaigogo.ru/feed.xml" rel="self"/>
-  <updated>2013-10-06T16:59:00Z</updated>
+  <updated>2013-10-12T10:11:00Z</updated>
   <author>
     <name>thaigogo</name>
   </author>
+  <entry>
+    <title>Сием Рип или туда и обратно. Часть 1.</title>
+    <link rel="alternate" href="http://thaigogo.ru/blog/siem-reap-there-back-again-part-one/"/>
+    <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/siem-reap-there-back-again-part-one/pub-street-fb.jpg"/>
+    <id>http://thaigogo.ru/blog/siem-reap-there-back-again-part-one/</id>
+    <published>2013-10-12T10:11:00Z</published>
+    <updated>2013-10-12T18:14:52+07:00</updated>
+    <author>
+      <name>thaigogo</name>
+    </author>
+    <summary type="html">&lt;p&gt;Одно из преимуществ жизни в Таиланде для гражданина России -
+необходимость периодически выезжать из страны, что дает повод увидеть
+что-нибудь интересное, раз задницу от стула уже оторвал. В Камбодже
+самое интересное для туриста место - Ангкор и городок Сием Рип рядом с
+ним.</summary>
+  </entry>
   <entry>
     <title>Чем заняться в Паттайе кроме секса</title>
     <link rel="alternate" href="http://thaigogo.ru/blog/todo-pattaya/"/>
@@ -161,22 +177,5 @@
     <summary type="html">&lt;p&gt;Если ты задумываешься о том чтобы провести зиму в теплых странах эта
 подборка важных на мой взгляд вещей поможет тебе оценить плюсы и
 минусы зимовки в Таиланде.</summary>
-  </entry>
-  <entry>
-    <title>Как зарабатывают на туристах отельный гид и экскурсионный гид в Таиланде</title>
-    <link rel="alternate" href="http://thaigogo.ru/blog/make-money-on-tourists/"/>
-    <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/make-money-on-tourists/hotel-fb.jpg"/>
-    <id>http://thaigogo.ru/blog/make-money-on-tourists/</id>
-    <published>2013-09-07T09:51:00Z</published>
-    <updated>2013-09-24T23:47:21+07:00</updated>
-    <author>
-      <name>thaigogo</name>
-    </author>
-    <summary type="html">&lt;p&gt;В культовом фильме Брат-2 есть сцена где еврей в Нью Йорке продает
-Даниле Багрову подержанный автомобиль, уверяя что тот довезет до
-Чикаго. "Мы, русские, не обманываем друг друга". Автомобиль, как
-известно, отказался ехать не пройдя и половины пути. Русский турист
-для русского гида в Таиланде это прежде всего источник дохода. Гиды
-знают несколько способов как этот доход увеличить.</summary>
   </entry>
 </feed>
