@@ -5,10 +5,26 @@
   <id>http://thaigogo.ru/blog</id>
   <link href="http://thaigogo.ru/blog"/>
   <link href="http://thaigogo.ru/feed.xml" rel="self"/>
-  <updated>2013-10-20T04:52:00Z</updated>
+  <updated>2013-10-24T13:37:00Z</updated>
   <author>
     <name>thaigogo</name>
   </author>
+  <entry>
+    <title>Сием Рип или туда и обратно. Часть 3.</title>
+    <link rel="alternate" href="http://thaigogo.ru/blog/siem-reap-there-back-again-part-three/"/>
+    <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/siem-reap-there-back-again-part-three/angkor-fb.jpg"/>
+    <id>http://thaigogo.ru/blog/siem-reap-there-back-again-part-three/</id>
+    <published>2013-10-24T13:37:00Z</published>
+    <updated>2013-10-24T21:02:08+07:00</updated>
+    <author>
+      <name>thaigogo</name>
+    </author>
+    <summary type="html">&lt;p&gt;Темнеет в Сием Рипе даже раньше чуть-чуть чем в Бангкоке, часовой то
+пояс тот же самый, а вот к солнцу Сием Рип ближе. Можно было бы
+ожидать что с наступлением темноты или хотя бы к восьми вечера
+начинается интенсивная ночная жизнь, но ничего подобного я не
+увидел. Если я не туда смотрел, то прошу меня исправить.</summary>
+  </entry>
   <entry>
     <title>Сием Рип или туда и обратно. Часть 2.</title>
     <link rel="alternate" href="http://thaigogo.ru/blog/siem-reap-there-back-again-part-two/"/>
@@ -162,21 +178,5 @@
 тоже вызывает улыбку. В этом году Nok Air зашла еще дальше в
 скандальном привлечении пассажиров, что уже осудили в Министерстве
 Культуры Таиланда (фото внутри).</summary>
-  </entry>
-  <entry>
-    <title>Сом там, салат из зеленой папайи</title>
-    <link rel="alternate" href="http://thaigogo.ru/blog/som-tam-salad/"/>
-    <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/som-tam-salad/som-tam-fb.jpg"/>
-    <id>http://thaigogo.ru/blog/som-tam-salad/</id>
-    <published>2013-09-13T11:28:00Z</published>
-    <updated>2013-10-05T22:08:22+07:00</updated>
-    <author>
-      <name>thaigogo</name>
-    </author>
-    <summary type="html">&lt;p&gt;&lt;strong&gt;Сом там, салат из зеленой папайи&lt;/strong&gt; - одно из самых известных блюд
-тайской кухни и одно из моих любимых. Попробуй - и ты узнаешь
-почему. Это блюдо можно встретить в любом ресторане и любой
-забегаловке в Таиланде, и уж точно самый лучший сом там ты найдешь в
-лотках на улице по цене в районе одного доллара или 30 бат.</summary>
   </entry>
 </feed>
