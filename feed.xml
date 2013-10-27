@@ -5,10 +5,25 @@
   <id>http://thaigogo.ru/blog</id>
   <link href="http://thaigogo.ru/blog"/>
   <link href="http://thaigogo.ru/feed.xml" rel="self"/>
-  <updated>2013-10-24T13:37:00Z</updated>
+  <updated>2013-10-27T10:34:00Z</updated>
   <author>
     <name>thaigogo</name>
   </author>
+  <entry>
+    <title>Продление визы в иммиграционном офисе в Бангкоке</title>
+    <link rel="alternate" href="http://thaigogo.ru/blog/bangkok-immigration/"/>
+    <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/bangkok-immigration/immigration-fb.jpg"/>
+    <id>http://thaigogo.ru/blog/bangkok-immigration/</id>
+    <published>2013-10-27T10:34:00Z</published>
+    <updated>2013-10-27T18:15:59+07:00</updated>
+    <author>
+      <name>thaigogo</name>
+    </author>
+    <summary type="html">&lt;p&gt;По туристической визе, однократной или двукратной, максимальный срок
+пребывания составляет 60 дней, крайнюю дату выезда тебе влепят в
+паспорт при въезде. Срок пребывания можно продлить еще на 30 дней в
+иммиграционном офисе.</summary>
+  </entry>
   <entry>
     <title>Сием Рип или туда и обратно. Часть 3.</title>
     <link rel="alternate" href="http://thaigogo.ru/blog/siem-reap-there-back-again-part-three/"/>
@@ -161,22 +176,5 @@
 Бангкоке и теперь думаешь куда податься дальше. Скажем, ты выбрал,
 вслед за героем знаменитой песни&lt;sup id="fnref:pattaya"&gt;&lt;a href="#fn:pattaya" class="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;, Паттайю. Рассмотрим твои
 возможные действия.</summary>
-  </entry>
-  <entry>
-    <title>Модели Maxim Таиланд разделись для пассажиров Nok Air (фото)</title>
-    <link rel="alternate" href="http://thaigogo.ru/blog/nok-air-maxim/"/>
-    <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/nok-air-maxim/nok-air-fb.jpg"/>
-    <id>http://thaigogo.ru/blog/nok-air-maxim/</id>
-    <published>2013-09-14T14:36:00Z</published>
-    <updated>2013-09-14T21:36:41+07:00</updated>
-    <author>
-      <name>thaigogo</name>
-    </author>
-    <summary type="html">&lt;p&gt;Nok Air, тайская авиакомпания лоукостер, известна своим задорным
-имиджем. Самолеты компании раскрашены в ярких птиц с забавными желтыми
-клювами (нок - птица по-тайски). Девиз компании - "We Fly Smiles",
-тоже вызывает улыбку. В этом году Nok Air зашла еще дальше в
-скандальном привлечении пассажиров, что уже осудили в Министерстве
-Культуры Таиланда (фото внутри).</summary>
   </entry>
 </feed>
