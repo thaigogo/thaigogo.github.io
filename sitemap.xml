@@ -129,6 +129,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://thaigogo.ru/blog/bangkok-rebels/</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://thaigogo.ru/blog/</loc>
     <priority>0.7</priority>
   </url>
@@ -258,6 +262,10 @@
   </url>
   <url>
     <loc>http://thaigogo.ru/blog/tag/market/</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://thaigogo.ru/blog/2014.html</loc>
     <priority>0.7</priority>
   </url>
   <url>
