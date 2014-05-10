@@ -5,17 +5,33 @@
   <id>http://thaigogo.ru/blog</id>
   <link href="http://thaigogo.ru/blog"/>
   <link href="http://thaigogo.ru/feed.xml" rel="self"/>
-  <updated>2014-04-24T06:05:00Z</updated>
+  <updated>2014-05-10T18:43:00Z</updated>
   <author>
     <name>thaigogo</name>
   </author>
+  <entry>
+    <title>Как получить визу США, находясь в Бангкоке</title>
+    <link rel="alternate" href="http://thaigogo.ru/blog/us-visa-thailand/"/>
+    <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/us-visa-thailand/us-embassy-fb.jpg"/>
+    <id>http://thaigogo.ru/blog/us-visa-thailand/</id>
+    <published>2014-05-10T18:43:00Z</published>
+    <updated>2014-05-11T02:10:47+07:00</updated>
+    <author>
+      <name>thaigogo</name>
+    </author>
+    <summary type="html">&lt;p&gt;Со всеми недавними событиями на Украине, санкциями и прочими неурядицами
+может сложиться впечатление что получить визу США для россиян стало
+сложнее. А если еще и почитать форум Винского о получении визы США за
+рубежом, то впору совсем отчаяться. На деле все совсем не так страшно
+и вполне выполнимо.</summary>
+  </entry>
   <entry>
     <title>Тайская ED виза</title>
     <link rel="alternate" href="http://thaigogo.ru/blog/thai-ed-visa/"/>
     <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/thai-ed-visa/ed-fb.jpg"/>
     <id>http://thaigogo.ru/blog/thai-ed-visa/</id>
     <published>2014-04-24T06:05:00Z</published>
-    <updated>2014-04-24T13:34:15+07:00</updated>
+    <updated>2014-05-11T02:07:33+07:00</updated>
     <author>
       <name>thaigogo</name>
     </author>
@@ -159,20 +175,5 @@
 так вообще ходят по ней группами с гидом. Каждый кто бывал в Паттайе
 обязательно пишет о Walking Street, и отзывы эти замечательны своей
 шаблонной стереотипностью. Я попробую сделать еще один.</summary>
-  </entry>
-  <entry>
-    <title>Тайская кухня: Муката - барбекю в Тайском стиле</title>
-    <link rel="alternate" href="http://thaigogo.ru/blog/thai-hot-pot-mookata/"/>
-    <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/thai-hot-pot-mookata/mookata-fb.jpg"/>
-    <id>http://thaigogo.ru/blog/thai-hot-pot-mookata/</id>
-    <published>2013-09-22T08:19:00Z</published>
-    <updated>2013-10-05T19:58:00+07:00</updated>
-    <author>
-      <name>thaigogo</name>
-    </author>
-    <summary type="html">&lt;p&gt;Независимо от того живешь ты в Таиланде или просто проводишь свой
-отпуск, если ты любишь поесть много, ты не должен упустить шанс поесть
-в муката, тайском барбекю, работающем по принципу буфета или шведского
-стола (все что сможешь съесть).</summary>
   </entry>
 </feed>

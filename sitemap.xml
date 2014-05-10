@@ -141,6 +141,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://thaigogo.ru/blog/us-visa-thailand/</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://thaigogo.ru/blog/</loc>
     <priority>0.7</priority>
   </url>
@@ -273,6 +277,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://thaigogo.ru/blog/tag/usa/</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://thaigogo.ru/blog/2014.html</loc>
     <priority>0.7</priority>
   </url>
@@ -305,7 +313,15 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://thaigogo.ru/blog/tag/visa/page/2/</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://thaigogo.ru/blog/tag/bangkok/page/2/</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://thaigogo.ru/blog/tag/bangkok/page/3/</loc>
     <priority>0.7</priority>
   </url>
   <url>
