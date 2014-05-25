@@ -5,10 +5,27 @@
   <id>http://thaigogo.ru/blog</id>
   <link href="http://thaigogo.ru/blog"/>
   <link href="http://thaigogo.ru/feed.xml" rel="self"/>
-  <updated>2014-05-10T18:43:00Z</updated>
+  <updated>2014-05-25T08:12:00Z</updated>
   <author>
     <name>thaigogo</name>
   </author>
+  <entry>
+    <title>Ночная жизнь во время военного переворота в Бангкоке</title>
+    <link rel="alternate" href="http://thaigogo.ru/blog/coup-nightlife/"/>
+    <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/coup-nightlife/coup-fb.jpg"/>
+    <id>http://thaigogo.ru/blog/coup-nightlife/</id>
+    <published>2014-05-25T08:12:00Z</published>
+    <updated>2014-05-25T15:24:54+07:00</updated>
+    <author>
+      <name>thaigogo</name>
+    </author>
+    <summary type="html">&lt;p&gt;Пишутся эти строки в самый разгар военного переворота в Таиланде
+(2014). Комендантский час, введенный военными, (с 10 вечера до 5 утра)
+не позволяет вести ночной образ жизни и остается только
+ностальгировать по мирным временам и ждать когда они наступят
+вновь. Итак, где же можно погулять в Бангкоке ночью в мирное
+время.</summary>
+  </entry>
   <entry>
     <title>Как получить визу США, находясь в Бангкоке</title>
     <link rel="alternate" href="http://thaigogo.ru/blog/us-visa-thailand/"/>
@@ -159,21 +176,5 @@
 государств, прожив перед этим месяц по штампу о прибытии. О том как
 получить туристическую визу в Таиланд в посольстве Таиланда в Лаосе я
 расскажу в этой статье.</summary>
-  </entry>
-  <entry>
-    <title>Walking Street, Паттайя</title>
-    <link rel="alternate" href="http://thaigogo.ru/blog/walking-street-pattaya/"/>
-    <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/walking-street-pattaya/galaxy-fb.jpg"/>
-    <id>http://thaigogo.ru/blog/walking-street-pattaya/</id>
-    <published>2013-09-26T08:50:00Z</published>
-    <updated>2013-10-05T20:14:54+07:00</updated>
-    <author>
-      <name>thaigogo</name>
-    </author>
-    <summary type="html">&lt;p&gt;Самая известная улица в Паттайе это Walking Street, всем туристам
-обязательно рекомендуют ее посетить, а китайские и японские туристы
-так вообще ходят по ней группами с гидом. Каждый кто бывал в Паттайе
-обязательно пишет о Walking Street, и отзывы эти замечательны своей
-шаблонной стереотипностью. Я попробую сделать еще один.</summary>
   </entry>
 </feed>
