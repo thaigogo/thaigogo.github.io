@@ -5,10 +5,26 @@
   <id>http://thaigogo.ru/blog</id>
   <link href="http://thaigogo.ru/blog"/>
   <link href="http://thaigogo.ru/feed.xml" rel="self"/>
-  <updated>2014-05-25T08:12:00Z</updated>
+  <updated>2014-06-15T20:54:00Z</updated>
   <author>
     <name>thaigogo</name>
   </author>
+  <entry>
+    <title>Пномпень. Королевский дворец, холм старухи Пень, ночная жизнь и тайская туристическая виза</title>
+    <link rel="alternate" href="http://thaigogo.ru/blog/phnom-penh/"/>
+    <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/phnom-penh/phnom-penh-fb.jpg"/>
+    <id>http://thaigogo.ru/blog/phnom-penh/</id>
+    <published>2014-06-15T20:54:00Z</published>
+    <updated>2014-06-16T04:32:57+07:00</updated>
+    <author>
+      <name>thaigogo</name>
+    </author>
+    <summary type="html">&lt;p&gt;Поездка эта состоялась в ноябре 2013 года, когда я решил получить
+туристическую визу в Таиланд, а заодно недельку провести в Пномпене,
+столице королевства Камбоджа. Выехав из Бангкока в Араньяпратет в 6
+утра на автобусе от парка Люмпини, я был у моста дружбы уже в десятом
+часу.</summary>
+  </entry>
   <entry>
     <title>Ночная жизнь во время военного переворота в Бангкоке</title>
     <link rel="alternate" href="http://thaigogo.ru/blog/coup-nightlife/"/>
@@ -160,20 +176,5 @@
 клерки, пялящиеся в экраны iPhone'ов в BTS. Бангкок это прежде всего
 Азия - вонючая, влажная, и грязная как рынок Клонг Той, про который я
 рассказываю на этот раз.</summary>
-  </entry>
-  <entry>
-    <title>Виза-ран из Бангкока в Лаос</title>
-    <link rel="alternate" href="http://thaigogo.ru/blog/visa-bangkok-lao/"/>
-    <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/visa-bangkok-lao/patuxai-fb.jpg"/>
-    <id>http://thaigogo.ru/blog/visa-bangkok-lao/</id>
-    <published>2013-09-28T14:35:00Z</published>
-    <updated>2013-09-28T21:45:16+07:00</updated>
-    <author>
-      <name>thaigogo</name>
-    </author>
-    <summary type="html">&lt;p&gt;Туристическую визу в Таиланд проще всего получить в одном из соседних
-государств, прожив перед этим месяц по штампу о прибытии. О том как
-получить туристическую визу в Таиланд в посольстве Таиланда в Лаосе я
-расскажу в этой статье.</summary>
   </entry>
 </feed>
