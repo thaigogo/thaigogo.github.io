@@ -197,16 +197,16 @@
       
       <form>
       	<legend>Полезно? Поделись!</legend>
-      	<!-- Social Ring Buttons Start --><div class="social-ring"><div class="social-ring-button">
-              <div class="g-plusone"
-                   data-size="medium"
-                   data-annotation="bubble">
-              </div></div><div class="social-ring-button">
+      	<!-- Social Ring Buttons Start --><div class="social-ring"><div class="social-ring-button"><div id="ok_shareWidget"></div></div><div class="social-ring-button">
                 <div class="fb-like"
                      data-href="http://thaigogo.ru/bangkok-taxi-calculator/"
                      data-width="180" data-show-faces="false"
                      data-layout="button_count"
-                     data-send="false"></div></div><div class="social-ring-button"><div id="vk_like"></div></div><div class="social-ring-button"><a rel="nofollow"
+                     data-send="false"></div></div><div class="social-ring-button">
+              <div class="g-plusone"
+                   data-size="medium"
+                   data-annotation="bubble">
+              </div></div><div class="social-ring-button"><div id="vk_like"></div></div><div class="social-ring-button"><a rel="nofollow"
                   href="http://twitter.com/share" lang="ru"
                   data-text="Калькулятор стоимости проезда на такси в Бангкоке"
                   data-url="http://thaigogo.ru/bangkok-taxi-calculator/"
@@ -255,6 +255,22 @@
               });
               VK.Widgets.Like('vk_like', options={type:"button",pageUrl:"http://thaigogo.ru/bangkok-taxi-calculator/",height:20,width:120}); 
             </script>
+              <script>
+              !function (d, id, did, st) {
+                var js = d.createElement("script");
+                js.src = "http://connect.ok.ru/connect.js";
+                js.onload = js.onreadystatechange = function () {
+                if (!this.readyState || this.readyState == "loaded" || this.readyState == "complete") {
+                  if (!this.executed) {
+                    this.executed = true;
+                    setTimeout(function () {
+                      OK.CONNECT.insertShareWidget(id,did,st);
+                    }, 0);
+                  }
+                }};
+                d.documentElement.appendChild(js);
+              }(document,"ok_shareWidget","http://thaigogo.ru/bangkok-taxi-calculator/","{width:145,height:30,st:'straight',sz:20,ck:1,vt:'0'}");
+              </script>
     </div>
     <div class='footer'>
       <div class='container'>
