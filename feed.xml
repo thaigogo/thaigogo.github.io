@@ -5,17 +5,32 @@
   <id>http://thaigogo.ru/blog</id>
   <link href="http://thaigogo.ru/blog"/>
   <link href="http://thaigogo.ru/feed.xml" rel="self"/>
-  <updated>2014-06-15T20:54:00Z</updated>
+  <updated>2014-08-03T16:58:00Z</updated>
   <author>
     <name>thaigogo</name>
   </author>
+  <entry>
+    <title>Аюттайя, древняя столица Таиланда. Как добраться, что посмотреть, чем развлечься</title>
+    <link rel="alternate" href="http://thaigogo.ru/blog/ayutthaya/"/>
+    <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/ayutthaya/ayutthaya-fb.jpg"/>
+    <id>http://thaigogo.ru/blog/ayutthaya/</id>
+    <published>2014-08-03T16:58:00Z</published>
+    <updated>2014-08-04T00:37:19+07:00</updated>
+    <author>
+      <name>thaigogo</name>
+    </author>
+    <summary type="html">&lt;p&gt;Аюттайя - одна из ближайших к Бангкоку достопримечательностей, разгул для
+любителей древностей, храмов, руин и другой атрибутики в стиле Лары Крофт. Город
+разрушенных храмов и изуродованных будд. Тайская столица была не в Бангкоке а
+здесь</summary>
+  </entry>
   <entry>
     <title>Пномпень. Королевский дворец, холм старухи Пень, ночная жизнь и тайская туристическая виза</title>
     <link rel="alternate" href="http://thaigogo.ru/blog/phnom-penh/"/>
     <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/phnom-penh/phnom-penh-fb.jpg"/>
     <id>http://thaigogo.ru/blog/phnom-penh/</id>
     <published>2014-06-15T20:54:00Z</published>
-    <updated>2014-07-17T01:38:22+07:00</updated>
+    <updated>2014-08-04T00:10:09+07:00</updated>
     <author>
       <name>thaigogo</name>
     </author>
@@ -31,7 +46,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/coup-nightlife/coup-fb.jpg"/>
     <id>http://thaigogo.ru/blog/coup-nightlife/</id>
     <published>2014-05-25T08:12:00Z</published>
-    <updated>2014-05-25T15:28:13+07:00</updated>
+    <updated>2014-08-04T00:14:52+07:00</updated>
     <author>
       <name>thaigogo</name>
     </author>
@@ -47,7 +62,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/us-visa-thailand/us-embassy-fb.jpg"/>
     <id>http://thaigogo.ru/blog/us-visa-thailand/</id>
     <published>2014-05-10T18:43:00Z</published>
-    <updated>2014-05-24T11:46:02+07:00</updated>
+    <updated>2014-08-04T00:17:15+07:00</updated>
     <author>
       <name>thaigogo</name>
     </author>
@@ -63,7 +78,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/thai-ed-visa/ed-fb.jpg"/>
     <id>http://thaigogo.ru/blog/thai-ed-visa/</id>
     <published>2014-04-24T06:05:00Z</published>
-    <updated>2014-05-11T02:07:33+07:00</updated>
+    <updated>2014-08-04T00:14:40+07:00</updated>
     <author>
       <name>thaigogo</name>
     </author>
@@ -79,7 +94,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/bangkok-rebels/asok-fb.jpg"/>
     <id>http://thaigogo.ru/blog/bangkok-rebels/</id>
     <published>2014-01-25T19:20:00Z</published>
-    <updated>2014-01-26T02:54:28+07:00</updated>
+    <updated>2014-08-04T00:14:34+07:00</updated>
     <author>
       <name>thaigogo</name>
     </author>
@@ -92,7 +107,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/bangkok-immigration/immigration-fb.jpg"/>
     <id>http://thaigogo.ru/blog/bangkok-immigration/</id>
     <published>2013-10-27T10:34:00Z</published>
-    <updated>2014-06-17T05:41:44+07:00</updated>
+    <updated>2014-08-04T00:14:28+07:00</updated>
     <author>
       <name>thaigogo</name>
     </author>
@@ -107,7 +122,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/siem-reap-there-back-again-part-three/angkor-fb.jpg"/>
     <id>http://thaigogo.ru/blog/siem-reap-there-back-again-part-three/</id>
     <published>2013-10-24T13:37:00Z</published>
-    <updated>2013-10-24T21:02:08+07:00</updated>
+    <updated>2014-08-04T00:14:21+07:00</updated>
     <author>
       <name>thaigogo</name>
     </author>
@@ -123,7 +138,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/siem-reap-there-back-again-part-two/tonlesap-fb.jpg"/>
     <id>http://thaigogo.ru/blog/siem-reap-there-back-again-part-two/</id>
     <published>2013-10-20T04:52:00Z</published>
-    <updated>2013-10-20T13:19:04+07:00</updated>
+    <updated>2014-08-04T00:14:15+07:00</updated>
     <author>
       <name>thaigogo</name>
     </author>
@@ -138,7 +153,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/siem-reap-there-back-again-part-one/pub-street-fb.jpg"/>
     <id>http://thaigogo.ru/blog/siem-reap-there-back-again-part-one/</id>
     <published>2013-10-12T10:11:00Z</published>
-    <updated>2013-10-20T13:13:38+07:00</updated>
+    <updated>2014-08-04T00:14:08+07:00</updated>
     <author>
       <name>thaigogo</name>
     </author>
@@ -154,27 +169,12 @@
     <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/todo-pattaya/vinery-fb.jpg"/>
     <id>http://thaigogo.ru/blog/todo-pattaya/</id>
     <published>2013-10-06T16:59:00Z</published>
-    <updated>2014-06-16T09:17:42+07:00</updated>
+    <updated>2014-08-04T00:14:00+07:00</updated>
     <author>
       <name>thaigogo</name>
     </author>
     <summary type="html">&lt;p&gt;Мы то с тобой знаем зачем все едут в Паттайю. Что? С тобой, внезапно,
 оказались жена и дети? Этот пост про то чем их отвлечь, пока ты
 занят.</summary>
-  </entry>
-  <entry>
-    <title>Рынок Клонг Той в Бангкоке</title>
-    <link rel="alternate" href="http://thaigogo.ru/blog/khlong-toey-market/"/>
-    <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/khlong-toey-market/khlong-toey-fb.jpg"/>
-    <id>http://thaigogo.ru/blog/khlong-toey-market/</id>
-    <published>2013-10-05T14:44:00Z</published>
-    <updated>2013-10-05T22:15:05+07:00</updated>
-    <author>
-      <name>thaigogo</name>
-    </author>
-    <summary type="html">&lt;p&gt;Бангкок это вовсе не шикарные отели, веселые бары, огромные магазины и
-клерки, пялящиеся в экраны iPhone'ов в BTS. Бангкок это прежде всего
-Азия - вонючая, влажная, и грязная как рынок Клонг Той, про который я
-рассказываю на этот раз.</summary>
   </entry>
 </feed>
