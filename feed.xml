@@ -5,10 +5,28 @@
   <id>http://thaigogo.ru/blog</id>
   <link href="http://thaigogo.ru/blog"/>
   <link href="http://thaigogo.ru/feed.xml" rel="self"/>
-  <updated>2014-08-03T23:58:00+07:00</updated>
+  <updated>2014-08-16T09:23:00+07:00</updated>
   <author>
     <name>thaigogo</name>
   </author>
+  <entry>
+    <title>Комиссия при снятии наличных с карты в Таиланде</title>
+    <link rel="alternate" href="http://thaigogo.ru/blog/atm-thailand/"/>
+    <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/atm-thailand/visamc-fb.jpg"/>
+    <id>http://thaigogo.ru/blog/atm-thailand/</id>
+    <published>2014-08-16T09:23:00+07:00</published>
+    <updated>2014-08-16T10:14:47+07:00</updated>
+    <author>
+      <name>thaigogo</name>
+    </author>
+    <summary type="html">&lt;p&gt;Снимать деньги с российской пластиковой карты в Таиланде не самое выгодное
+занятие, но везти мешок налички с собой тоже не всегда удобно. Банкоматы в
+туристических местах Таиланда распространены, работают, в отличие от обменников,
+круглосуточно, и на мне пока ни разу не косячили (тьфу-тьфу-тьфу), хотя мои
+тайские знакомые показывали мне однажды банкомат, который зажевал их деньги. Ну
+и, очевидно, что рубли, или доллары, или любую другую валюту кроме тайских бат
+не получится снять в банкомате в Таиланде.</summary>
+  </entry>
   <entry>
     <title>Аюттайя, древняя столица Таиланда. Как добраться, что посмотреть, чем развлечься</title>
     <link rel="alternate" href="http://thaigogo.ru/blog/ayutthaya/"/>
@@ -162,19 +180,5 @@
 что-нибудь интересное, раз задницу от стула уже оторвал. В Камбодже
 самое интересное для туриста место - Ангкор и городок Сием Рип рядом с
 ним.</summary>
-  </entry>
-  <entry>
-    <title>Чем заняться в Паттайе кроме секса</title>
-    <link rel="alternate" href="http://thaigogo.ru/blog/todo-pattaya/"/>
-    <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/todo-pattaya/vinery-fb.jpg"/>
-    <id>http://thaigogo.ru/blog/todo-pattaya/</id>
-    <published>2013-10-06T23:59:00+07:00</published>
-    <updated>2014-08-04T00:14:00+07:00</updated>
-    <author>
-      <name>thaigogo</name>
-    </author>
-    <summary type="html">&lt;p&gt;Мы то с тобой знаем зачем все едут в Паттайю. Что? С тобой, внезапно,
-оказались жена и дети? Этот пост про то чем их отвлечь, пока ты
-занят.</summary>
   </entry>
 </feed>
