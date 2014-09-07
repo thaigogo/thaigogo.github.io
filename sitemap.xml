@@ -161,6 +161,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://thaigogo.ru/blog/internet-shopping-thailand/</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://thaigogo.ru/blog/</loc>
     <priority>0.7</priority>
   </url>
@@ -305,6 +309,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://thaigogo.ru/blog/tag/shopping/</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://thaigogo.ru/blog/page/2/</loc>
     <priority>0.7</priority>
   </url>
@@ -322,6 +330,10 @@
   </url>
   <url>
     <loc>http://thaigogo.ru/blog/page/6/</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://thaigogo.ru/blog/page/7/</loc>
     <priority>0.7</priority>
   </url>
   <url>

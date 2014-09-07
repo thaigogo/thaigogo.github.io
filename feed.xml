@@ -5,10 +5,26 @@
   <id>http://thaigogo.ru/blog</id>
   <link href="http://thaigogo.ru/blog"/>
   <link href="http://thaigogo.ru/feed.xml" rel="self"/>
-  <updated>2014-08-16T09:23:00+07:00</updated>
+  <updated>2014-09-08T04:51:00+07:00</updated>
   <author>
     <name>thaigogo</name>
   </author>
+  <entry>
+    <title>Интернет-шоппинг в Таиланде</title>
+    <link rel="alternate" href="http://thaigogo.ru/blog/internet-shopping-thailand/"/>
+    <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/internet-shopping-thailand/ishop-fb.jpg"/>
+    <id>http://thaigogo.ru/blog/internet-shopping-thailand/</id>
+    <published>2014-09-08T04:51:00+07:00</published>
+    <updated>2014-09-08T05:34:10+07:00</updated>
+    <author>
+      <name>thaigogo</name>
+    </author>
+    <summary type="html">&lt;p&gt;Бангкок имеет развитую инфраструктуру, множество огромных торговых центров,
+шикарных ресторанов и развлекательных комплексов. Есть на что посмотреть и где
+потратить деньги. Для тех же кому лень выходить из дома, или хочется чего-то,
+чего нет в простом магазине, или просто привык пользоваться интернет-магазинами,
+их тоже есть.</summary>
+  </entry>
   <entry>
     <title>Комиссия при снятии наличных с карты в Таиланде</title>
     <link rel="alternate" href="http://thaigogo.ru/blog/atm-thailand/"/>
@@ -164,21 +180,5 @@
 так себе, зато официанты при полном параде. Наверх в комнату,
 досыпать. Стук в дверь в 9. Приехал мой тук-тук драйвер на мопеде,
 пора смотреть Ангкор Ват.</summary>
-  </entry>
-  <entry>
-    <title>Сием Рип или туда и обратно. Часть 1.</title>
-    <link rel="alternate" href="http://thaigogo.ru/blog/siem-reap-there-back-again-part-one/"/>
-    <link rel="enclosure" type="image/jpeg" href="http://thaigogo.ru/blog/siem-reap-there-back-again-part-one/pub-street-fb.jpg"/>
-    <id>http://thaigogo.ru/blog/siem-reap-there-back-again-part-one/</id>
-    <published>2013-10-12T17:11:00+07:00</published>
-    <updated>2014-08-04T00:14:08+07:00</updated>
-    <author>
-      <name>thaigogo</name>
-    </author>
-    <summary type="html">&lt;p&gt;Одно из преимуществ жизни в Таиланде для гражданина России -
-необходимость периодически выезжать из страны, что дает повод увидеть
-что-нибудь интересное, раз задницу от стула уже оторвал. В Камбодже
-самое интересное для туриста место - Ангкор и городок Сием Рип рядом с
-ним.</summary>
   </entry>
 </feed>
